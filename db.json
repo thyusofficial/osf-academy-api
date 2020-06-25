@@ -1,0 +1,44 @@
+{
+  "cart": [
+    {
+      "id": 1,
+      "name": "Kristina Dam Oak Table With White Marble Top",
+      "price": 2195.00,
+      "image": "https://via.placeholder.com/96x96",
+      "amount": 1
+    },
+    {
+      "id": 2,
+      "name": "Activate Facial Mask and Charcoal Soap",
+      "price": 1249.00,
+      "image": "https://via.placeholder.com/96x96",
+      "amount": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Our Awsome Product #1",
+      "price": "283,96",
+      "image": "https://images.unsplash.com/photo-1570857502809-08184874388e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=798&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Our Awsome Product #2",
+      "price": "77,21",
+      "image": "https://images.unsplash.com/photo-1506915925765-ed31516b9080?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Our Awsome Product #3",
+      "price": "47,92",
+      "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Our Awsome Product #4",
+      "price": "24,11",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+    }
+  ]
+}
